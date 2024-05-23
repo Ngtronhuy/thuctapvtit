@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/columnsrows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/columnsrows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/columnsrows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/modalsheet/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/modalsheet/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/modalsheet/build" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/passingdata/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/passingdata/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/passingdata/build" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/scrollview/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/scrollview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/scrollview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/transparency/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/transparency/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/22_5_2024/transparency/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
